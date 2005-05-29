@@ -1,4 +1,5 @@
 Summary:	Small utility to calculate Ogg-Vorbis playing time
+Summary(pl):	Niewielkie narzêdzie obliczajace d³ugo¶æ grania pliku Ogg
 Name:		oggtst
 Version:	1.0
 Release:	0.1
@@ -16,6 +17,9 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
 Small utility to calculate Ogg-Vorbis playing time.
+
+%description -l pl
+Niewielkie narzêdzie obliczajace d³ugo¶æ grania pliku Ogg.
 
 %prep
 %setup -q -n %{name}
