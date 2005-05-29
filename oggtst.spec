@@ -5,7 +5,7 @@ Release:	0.1
 License:	GPL v2
 Group:		Applications
 Source0:	http://gnometoaster.rulez.org/archive/%{name}.tgz
-# Source0-md5:	6bfc076664416251d7624ab3538d1cb9
+# Source0-md5:	8d35377ce3e72f4a01440d7f121d4f68
 URL:		http://gnometoaster.rulez.org/
 BuildRequires:	autoconf
 BuildRequires:	automake
