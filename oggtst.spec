@@ -1,5 +1,5 @@
 Summary:	Small utility to calculate Ogg-Vorbis playing time
-Summary(pl.UTF-8):   Niewielkie narzędzie obliczajace długość grania pliku Ogg
+Summary(pl.UTF-8):	Niewielkie narzędzie obliczajace długość grania pliku Ogg
 Name:		oggtst
 Version:	1.0
 Release:	0.1
